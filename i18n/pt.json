@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "title": "Albert Dias - Desenvolvedor Frontend Sênior"
+  },
   "nav": {
     "logo": "Albert A. Dias",
     "home": "Início",
@@ -34,6 +37,30 @@
       "highlight1": "Desenvolvimento de whitelabel para mais de 100 aplicativos",
       "highlight2": "Integrações com SSOs privados e Google Maps",
       "highlight3": "Implementação de check-ins por geolocalização"
+    },
+    "compass": {
+      "description": "Desenvolvimento de novas funcionalidades para o cliente Natura & Co, com foco no módulo financeiro da aplicação web e do aplicativo mobile, garantindo performance, usabilidade e manutenção da base de código.",
+      "highlight1": "Refatoração do módulo financeiro do aplicativo da Natura & Co",
+      "highlight2": "Desenvolvimento de funcionalidades para milhares de usuários",
+      "highlight3": "Garantia de performance e usabilidade"
+    },
+    "corpstek": {
+      "description": "Atuação no desenvolvimento de aplicativos mobile e websites, com participação em atividades de DevOps utilizando AWS e Node.js. Liderança técnica de uma equipe com 6 desenvolvedores, promovendo boas práticas, alinhamento técnico e entregas de alta qualidade.",
+      "highlight1": "Liderança técnica de equipe com 6 desenvolvedores",
+      "highlight2": "Atividades de DevOps utilizando AWS",
+      "highlight3": "Promoção de boas práticas e alinhamento técnico"
+    },
+    "freelancer": {
+      "description": "Desenvolvimento de sistemas de gestão para diferentes segmentos, como academias, lava-rápidos e salgaterias. Criação de sites institucionais e sistemas personalizados, com foco em automação de processos e experiência do usuário.",
+      "highlight1": "Desenvolvimento de sistemas de gestão para diversos segmentos",
+      "highlight2": "Criação de sites institucionais e sistemas personalizados",
+      "highlight3": "Foco em automação de processos e UX"
+    },
+    "velty": {
+      "description": "Desenvolvimento de site e integração com o framework proprietário da empresa, garantindo compatibilidade e performance.",
+      "highlight1": "Desenvolvimento de sites institucionais",
+      "highlight2": "Integração com framework proprietário",
+      "highlight3": "Garantia de compatibilidade e performance"
     }
   },
   "projects": {

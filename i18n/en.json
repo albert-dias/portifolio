@@ -1,4 +1,7 @@
 {
+  "meta": {
+    "title": "Albert Dias - Senior Frontend Developer"
+  },
   "nav": {
     "logo": "Albert A. Dias",
     "home": "Home",
@@ -10,7 +13,7 @@
   },
   "hero": {
     "name": "Albert A. Dias",
-    "headline": "Senior Developer Analyst - React & React Native",
+    "headline": "Senior Developer Analyst - React, React Native and NodeJS",
     "description": "Senior Developer Analyst with over 10 years of experience in mobile and web development. Specialized in React, React Native, TypeScript, and Node.js, working on medium and large-scale projects for companies like Volvo, Sicredi, Caixa Consórcio, and Natura & Co.",
     "downloadCv": "Download CV",
     "contact": "Get in Touch"
@@ -34,6 +37,30 @@
       "highlight1": "Development of whitelabel for more than 100 applications",
       "highlight2": "Integrations with private SSOs and Google Maps",
       "highlight3": "Implementation of geolocation check-ins"
+    },
+    "compass": {
+      "description": "Development of new features for Natura & Co client, focusing on the financial module of the web application and mobile app, ensuring performance, usability, and code maintenance.",
+      "highlight1": "Refactoring of the financial module for Natura & Co application",
+      "highlight2": "Development of features for thousands of users",
+      "highlight3": "Ensuring performance and usability"
+    },
+    "corpstek": {
+      "description": "Working on mobile app and website development, with participation in DevOps activities using AWS and Node.js. Technical leadership of a team with 6 developers, promoting best practices, technical alignment, and high-quality deliveries.",
+      "highlight1": "Technical leadership of a team with 6 developers",
+      "highlight2": "DevOps activities using AWS",
+      "highlight3": "Promoting best practices and technical alignment"
+    },
+    "freelancer": {
+      "description": "Development of management systems for different segments, such as gyms, car washes, and snack bars. Creation of institutional websites and custom systems, with focus on process automation and user experience.",
+      "highlight1": "Development of management systems for various segments",
+      "highlight2": "Creation of institutional websites and custom systems",
+      "highlight3": "Focus on process automation and UX"
+    },
+    "velty": {
+      "description": "Website development and integration with the company's proprietary framework, ensuring compatibility and performance.",
+      "highlight1": "Development of institutional websites",
+      "highlight2": "Integration with proprietary framework",
+      "highlight3": "Ensuring compatibility and performance"
     }
   },
   "projects": {
