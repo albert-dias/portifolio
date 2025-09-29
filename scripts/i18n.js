@@ -31,8 +31,8 @@ class I18n {
     async loadTranslations() {
         try {
             const [enTranslations, ptTranslations] = await Promise.all([
-                fetch('/i18n/en.json').then(res => res.json()),
-                fetch('/i18n/pt.json').then(res => res.json())
+                fetch('i18n/en.json').then(res => res.json()),
+                fetch('i18n/pt.json').then(res => res.json())
             ]);
 
             this.translations = {
@@ -164,12 +164,7 @@ class I18n {
 
     async loadProjects(lang) {
         try {
-            console.log(`Loading projects for language: ${lang}`);
-            const projects = await fetch(`/content/projects.${lang}.json`).then(res => {
-                console.log(`Projects response status: ${res.status}`);
-                return res.json();
-            });
-            console.log('Projects loaded:', projects);
+            const projects = await fetch(`content/projects.${lang}.json`).then(res => res.json());
             this.renderProjects(projects);
         } catch (error) {
             console.error('Failed to load projects:', error);
@@ -178,16 +173,11 @@ class I18n {
 
     renderProjects(projects) {
         const grid = document.getElementById('projects-grid');
-        if (!grid) {
-            console.error('Projects grid element not found');
-            return;
-        }
+        if (!grid) return;
 
-        console.log('Rendering projects:', projects);
         grid.innerHTML = '';
 
         projects.forEach(project => {
-            console.log('Creating card for project:', project.title, 'Image:', project.images[0]);
             const projectCard = this.createProjectCard(project);
             grid.appendChild(projectCard);
         });
