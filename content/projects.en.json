@@ -1,0 +1,94 @@
+[
+  {
+    "id": "getap",
+    "title": "GETAP",
+    "description": "Corn and sorghum harvest management platform.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/getap-1.jpg"
+    ],
+    "liveUrl": "https://app.getap.agr.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "aprender-capacitar",
+    "title": "Aprender e Capacitar Brasil",
+    "description": "Event and course management platform for public servants.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/aprender-1.jpg"
+    ],
+    "liveUrl": "https://aprenderecapacitarbrasil.com.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "wendell-passeios",
+    "title": "Wendell Passeios",
+    "description": "Tour management platform in Fernando de Noronha.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/wendell-1.jpg"
+    ],
+    "liveUrl": "https://www.wendellpasseios.com.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "yazon-tech",
+    "title": "Yazon Tech Solutions",
+    "description": "Yazon Tech Solutions website.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/yazon-1.jpg"
+    ],
+    "liveUrl": "https://yazon.com.br/",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "youhull",
+    "title": "Youhull",
+    "description": "Development of benefits club applications, integrations with private SSOs, Google Maps, geolocation check-ins, working with a whitelabel for more than 100 applications. CI/CD of these applications.",
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/youhull-1.jpg"
+    ],
+    "liveUrl": "https://youhuul.com.br/",
+    "repoUrl": "#",
+    "featured": true
+  }
+]

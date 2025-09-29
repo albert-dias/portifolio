@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "logo": "Albert A. Dias",
+    "home": "Início",
+    "about": "Sobre",
+    "experience": "Experiência",
+    "projects": "Projetos",
+    "skills": "Habilidades",
+    "contact": "Contato"
+  },
+  "hero": {
+    "name": "Albert A. Dias",
+    "headline": "Analista Desenvolvedor Sênior - React & React Native",
+    "description": "Analista Desenvolvedor Sênior com mais de 10 anos de experiência em desenvolvimento mobile e web. Especializado em React, React Native, TypeScript e Node.js, com atuação em projetos de médio e grande porte para empresas como Volvo, Sicredi, Caixa Consórcio e Natura & Co.",
+    "downloadCv": "Baixar CV",
+    "contact": "Entre em Contato"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "description": "Analista Desenvolvedor Sênior com mais de 10 anos de experiência em desenvolvimento mobile e web. Especializado em React, React Native, TypeScript e Node.js, com atuação em projetos de médio e grande porte para empresas como Volvo, Sicredi, Caixa Consórcio e Natura & Co.",
+    "passion": "Adoro transformar problemas complexos em soluções simples, bonitas e intuitivas. Quando não estou programando, você pode me encontrar explorando novas tecnologias, contribuindo para projetos open source ou compartilhando conhecimento com a comunidade de desenvolvedores.",
+    "techStack": "Stack Tecnológico"
+  },
+  "experience": {
+    "title": "Experiência",
+    "current": {
+      "description": "Atuação no desenvolvimento de aplicativos mobile com React Native, criação de módulos e portais de vendas, além da sustentação de aplicações existentes. Apoio contínuo à equipe para garantir entregas pontuais e com alto padrão de qualidade. Passei por clientes como Volvo, Sicredi e atualmente alocado no time da Caixa Consórcio.",
+      "highlight1": "Desenvolvimento de aplicativos mobile para clientes como Volvo, Sicredi e Caixa Consórcio",
+      "highlight2": "Criação de módulos e portais de vendas com React Native",
+      "highlight3": "Sustentação de aplicações existentes com alto padrão de qualidade"
+    },
+    "previous": {
+      "description": "Desenvolvimento de aplicativos de clubes de vantagens, integrações com SSOs privados, google maps, check ins por geolocalização, atuando com um whitelabel para mais de 100 aplicativos. CI/CD desses aplicativos.",
+      "highlight1": "Desenvolvimento de whitelabel para mais de 100 aplicativos",
+      "highlight2": "Integrações com SSOs privados e Google Maps",
+      "highlight3": "Implementação de check-ins por geolocalização"
+    }
+  },
+  "projects": {
+    "title": "Projetos em Destaque",
+    "viewLive": "Ver Online",
+    "viewRepo": "Ver Repositório"
+  },
+  "skills": {
+    "title": "Habilidades",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "DevOps",
+    "testing": "Testes",
+    "data": "Dados",
+    "tools": "Ferramentas"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "info": {
+      "title": "Vamos trabalhar juntos",
+      "description": "Estou sempre interessado em novas oportunidades e projetos emocionantes. Sinta-se à vontade para entrar em contato se quiser colaborar!"
+    }
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados.",
+    "source": "Ver Código Fonte"
+  }
+}

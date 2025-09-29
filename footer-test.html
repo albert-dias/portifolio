@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Footer Test</title>
+        <link rel="stylesheet" href="/styles/tokens.css">
+        <link rel="stylesheet" href="/styles/globals.css">
+        <link rel="stylesheet" href="/styles/components.css">
+        <style>
+            /* Debug styles */
+            .container {
+                border: 2px solid red !important;
+            }
+
+            .footer {
+                border: 2px solid blue !important;
+            }
+
+            .footer__container {
+                border: 2px solid green !important;
+            }
+        </style>
+    </head>
+
+    <body>
+        <main class="main">
+            <section style="padding: 2rem 0; background: var(--color-surface); min-height: 80vh;">
+                <div class="container">
+                    <h1>Test Section</h1>
+                    <p>This is a test section to check the container layout.</p>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut
+                        labore et dolore magna aliqua.</p>
+                </div>
+            </section>
+        </main>
+
+        <footer class="footer">
+            <div class="container footer__container">
+                <p class="footer__copyright">
+                    © 2024 Albert Dias. All rights reserved.
+                </p>
+                <a href="#" class="footer__link">
+                    <span>View Source</span>
+                </a>
+            </div>
+        </footer>
+    </body>
+
+</html>

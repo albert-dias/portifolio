@@ -1,0 +1,94 @@
+[
+  {
+    "id": "getap",
+    "title": "GETAP",
+    "description": "Plataforma de gerenciamento de colheita de milho e sorgo.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/getap-1.jpg"
+    ],
+    "liveUrl": "https://app.getap.agr.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "aprender-capacitar",
+    "title": "Aprender e Capacitar Brasil",
+    "description": "Plataforma de gerenciamento de eventos e cursos para servidores públicos.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/aprender-1.jpg"
+    ],
+    "liveUrl": "https://aprenderecapacitarbrasil.com.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "wendell-passeios",
+    "title": "Wendell Passeios",
+    "description": "Plataforma de gerenciamento de passeios em Fernando de Noronha.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/wendell-1.jpg"
+    ],
+    "liveUrl": "https://www.wendellpasseios.com.br",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "yazon-tech",
+    "title": "Yazon Tech Solutions",
+    "description": "Site da Yazon Tech Solutions.",
+    "technologies": [
+      "React",
+      "TypeScript",
+      "Node.js",
+      "PostgreSQL",
+      "AWS",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/yazon-1.jpg"
+    ],
+    "liveUrl": "https://yazon.com.br/",
+    "repoUrl": "#",
+    "featured": true
+  },
+  {
+    "id": "youhull",
+    "title": "Youhull",
+    "description": "Desenvolvimento de aplicativos de clubes de vantagens, integrações com SSOs privados, google maps, check ins por geolocalização, atuando com um whitelabel para mais de 100 aplicativos. CI/CD desses aplicativos.",
+    "technologies": [
+      "React Native",
+      "TypeScript",
+      "Zustand"
+    ],
+    "images": [
+      "/projects/youhull-1.jpg"
+    ],
+    "liveUrl": "https://youhuul.com.br/",
+    "repoUrl": "#",
+    "featured": true
+  }
+]

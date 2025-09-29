@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "logo": "Albert A. Dias",
+    "home": "Home",
+    "about": "About",
+    "experience": "Experience",
+    "projects": "Projects",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "name": "Albert A. Dias",
+    "headline": "Senior Developer Analyst - React & React Native",
+    "description": "Senior Developer Analyst with over 10 years of experience in mobile and web development. Specialized in React, React Native, TypeScript, and Node.js, working on medium and large-scale projects for companies like Volvo, Sicredi, Caixa Consórcio, and Natura & Co.",
+    "downloadCv": "Download CV",
+    "contact": "Get in Touch"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "Senior Developer Analyst with over 10 years of experience in mobile and web development. Specialized in React, React Native, TypeScript, and Node.js, working on medium and large-scale projects for companies like Volvo, Sicredi, Caixa Consórcio, and Natura & Co.",
+    "passion": "I love turning complex problems into simple, beautiful, and intuitive solutions. When I'm not coding, you can find me exploring new technologies, contributing to open source projects, or sharing knowledge with the developer community.",
+    "techStack": "Tech Stack"
+  },
+  "experience": {
+    "title": "Experience",
+    "current": {
+      "description": "Working on mobile app development with React Native, creating sales modules and portals, and maintaining existing applications. Continuous support to the team to ensure timely deliveries with high quality standards. Worked with clients like Volvo, Sicredi, and currently allocated to the Caixa Consórcio team.",
+      "highlight1": "Development of mobile applications for clients like Volvo, Sicredi, and Caixa Consórcio",
+      "highlight2": "Creation of sales modules and portals with React Native",
+      "highlight3": "Maintenance of existing applications with high quality standards"
+    },
+    "previous": {
+      "description": "Development of benefits club applications, integrations with private SSOs, Google Maps, check-ins by geolocation, working with a whitelabel for more than 100 applications. CI/CD of these applications.",
+      "highlight1": "Development of whitelabel for more than 100 applications",
+      "highlight2": "Integrations with private SSOs and Google Maps",
+      "highlight3": "Implementation of geolocation check-ins"
+    }
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "viewLive": "View Live",
+    "viewRepo": "View Repo"
+  },
+  "skills": {
+    "title": "Skills",
+    "frontend": "Frontend",
+    "backend": "Backend",
+    "devops": "DevOps",
+    "testing": "Testing",
+    "data": "Data",
+    "tools": "Tools"
+  },
+  "contact": {
+    "title": "Get In Touch",
+    "info": {
+      "title": "Let's work together",
+      "description": "I'm always interested in new opportunities and exciting projects. Feel free to reach out if you'd like to collaborate!"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "source": "View Source"
+  }
+}

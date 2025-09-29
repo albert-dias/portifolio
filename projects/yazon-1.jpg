@@ -1,0 +1,6 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#8B5CF6"/>
+  <text x="400" y="300" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="white">Yazon Tech</text>
+  <text x="400" y="340" font-family="Arial, sans-serif" font-size="40" font-weight="bold" text-anchor="middle" fill="white">Solutions</text>
+  <text x="400" y="380" font-family="Arial, sans-serif" font-size="18" text-anchor="middle" fill="white">Site Corporativo</text>
+</svg>

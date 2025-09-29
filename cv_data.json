@@ -1,0 +1,333 @@
+{
+  "personal_info": {
+    "name": "Albert A. Dias",
+    "headline": "Analista Desenvolvedor Sênior - React & React Native",
+    "email": "dias.albertdias@gmail.com",
+    "phone": "+55 84 99231-3523",
+    "location": "Parnamirim, RN, Brasil",
+    "summary": "Analista Desenvolvedor Sênior com mais de 10 anos de experiência em desenvolvimento mobile e web. Especializado em React, React Native, TypeScript e Node.js, com atuação em projetos de médio e grande porte para empresas como Volvo, Sicredi, Caixa Consórcio e Natura & Co."
+  },
+  "experience": [
+    {
+      "company": "Topaz Technology",
+      "position": "Analista Desenvolvedor Sênior - React, React Native",
+      "period": "Nov 2023 - Presente",
+      "location": "São José do Rio Preto, BR (Remote)",
+      "description": "Atuação no desenvolvimento de aplicativos mobile com React Native, criação de módulos e portais de vendas, além da sustentação de aplicações existentes. Apoio contínuo à equipe para garantir entregas pontuais e com alto padrão de qualidade. Passei por clientes como Volvo, Sicredi e atualmente alocado no time da Caixa Consórcio.",
+      "technologies": [
+        "React",
+        "React Native",
+        "Javascript",
+        "TypeScript"
+      ],
+      "highlights": [
+        "Desenvolvimento de aplicativos mobile para clientes como Volvo, Sicredi e Caixa Consórcio",
+        "Criação de módulos e portais de vendas com React Native",
+        "Sustentação de aplicações existentes com alto padrão de qualidade"
+      ]
+    },
+    {
+      "company": "Youhull",
+      "position": "Analista Desenvolvedor - React Native",
+      "period": "Jan 2021 - Jul 2025",
+      "location": "Brasília, BR (Remote)",
+      "description": "Desenvolvimento de aplicativos de clubes de vantagens, integrações com SSOs privados, google maps, check ins por geolocalização, atuando com um whitelabel para mais de 100 aplicativos. CI/CD desses aplicativos.",
+      "technologies": [
+        "React Native",
+        "TypeScript",
+        "Javascript"
+      ],
+      "highlights": [
+        "Desenvolvimento de whitelabel para mais de 100 aplicativos",
+        "Integrações com SSOs privados e Google Maps",
+        "Implementação de check-ins por geolocalização"
+      ]
+    },
+    {
+      "company": "Compass Uol",
+      "position": "Analista Desenvolvedor Pleno - React, React Native",
+      "period": "Mar 2023 - Nov 2023",
+      "location": "Passo Fundo, BR (Remote)",
+      "description": "Desenvolvimento de novas funcionalidades para o cliente Natura & Co, com foco no módulo financeiro da aplicação web e do aplicativo mobile, garantindo performance, usabilidade e manutenção da base de código.",
+      "technologies": [
+        "React",
+        "React Native",
+        "TypeScript",
+        "Javascript"
+      ],
+      "highlights": [
+        "Refatoração do módulo financeiro do aplicativo da Natura & Co",
+        "Desenvolvimento de funcionalidades para milhares de usuários",
+        "Garantia de performance e usabilidade"
+      ]
+    },
+    {
+      "company": "Corpstek Technology",
+      "position": "Analista Desenvolvedor Full Stack - React, React Native, Node",
+      "period": "Mar 2021 - Mar 2023",
+      "location": "Natal, BR",
+      "description": "Atuação no desenvolvimento de aplicativos mobile e websites, com participação em atividades de DevOps utilizando AWS e Node.js. Liderança técnica de uma equipe com 6 desenvolvedores, promovendo boas práticas, alinhamento técnico e entregas de alta qualidade.",
+      "technologies": [
+        "Javascript",
+        "React",
+        "React Native",
+        "Node",
+        "AWS-S3",
+        "AWS-EC2",
+        "Postgres",
+        "Mysql",
+        "TypeORM",
+        "Socket.io"
+      ],
+      "highlights": [
+        "Liderança técnica de equipe com 6 desenvolvedores",
+        "Atividades de DevOps utilizando AWS",
+        "Promoção de boas práticas e alinhamento técnico"
+      ]
+    },
+    {
+      "company": "Freelancer",
+      "position": "Analista Desenvolvedor Full Stack",
+      "period": "Mar 2018 - Mar 2021",
+      "location": "Natal, BR",
+      "description": "Desenvolvimento de sistemas de gestão para diferentes segmentos, como academias, lava-rápidos e salgaterias. Criação de sites institucionais e sistemas personalizados, com foco em automação de processos e experiência do usuário.",
+      "technologies": [
+        "Javascript",
+        "React",
+        "React Native",
+        "Node",
+        "Postgres",
+        "Mysql",
+        "TypeORM",
+        "Socket.io"
+      ],
+      "highlights": [
+        "Desenvolvimento de sistemas de gestão para diversos segmentos",
+        "Criação de sites institucionais e sistemas personalizados",
+        "Foco em automação de processos e UX"
+      ]
+    },
+    {
+      "company": "Velty",
+      "position": "Desenvolvedor Front End",
+      "period": "Mar 2012 - Nov 2016",
+      "location": "Natal, BR",
+      "description": "Desenvolvimento de site e integração com o framework proprietário da empresa, garantindo compatibilidade e performance.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "PHP",
+        "Javascript"
+      ],
+      "highlights": [
+        "Desenvolvimento de sites institucionais",
+        "Integração com framework proprietário",
+        "Garantia de compatibilidade e performance"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Estácio",
+      "degree": "Análise e desenvolvimento de software",
+      "period": "Jan 2022 - Set 2025",
+      "description": "Formação em análise e desenvolvimento de sistemas"
+    },
+    {
+      "institution": "Universidade Federal do Tocantins",
+      "degree": "Ciências da computação",
+      "period": "Jan 2007 - Set 2010",
+      "description": "Formação em ciências da computação"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Rocketseat Ignite 2024",
+      "issuer": "Rocketseat",
+      "date": "Jan 2022 - Dec 2022",
+      "description": "Programa de especialização em desenvolvimento full-stack"
+    },
+    {
+      "name": "Rocketseat Ignite 2022",
+      "issuer": "Rocketseat",
+      "date": "Jan 2022 - Dec 2022",
+      "description": "Programa de especialização em desenvolvimento full-stack"
+    },
+    {
+      "name": "Rocketseat GoStack 2020",
+      "issuer": "Rocketseat",
+      "date": "Jan 2020 - Dec 2020",
+      "description": "Programa de especialização em desenvolvimento full-stack"
+    }
+  ],
+  "skills": {
+    "frontend": [
+      "React",
+      "React Native",
+      "TypeScript",
+      "Javascript",
+      "HTML",
+      "CSS"
+    ],
+    "backend": [
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "MySQL",
+      "TypeORM",
+      "Prisma.io"
+    ],
+    "devops": [
+      "AWS-S3",
+      "AWS-EC2",
+      "CI/CD",
+      "Socket.io"
+    ],
+    "mobile": [
+      "React Native",
+      "Geolocalização",
+      "Google Maps",
+      "SSO"
+    ],
+    "tools": [
+      "Git",
+      "VS Code",
+      "Postman",
+      "Figma"
+    ]
+  },
+  "projects": [
+    {
+      "id": "getap",
+      "title": "GETAP",
+      "description": "Plataforma de gerenciamento de colheita de milho e sorgo.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Zustand"
+      ],
+      "images": [
+        "/projects/getap-1.jpg"
+      ],
+      "liveUrl": "https://app.getap.agr.br",
+      "repoUrl": "#",
+      "featured": true
+    },
+    {
+      "id": "aprender-capacitar",
+      "title": "Aprender e Capacitar Brasil",
+      "description": "Plataforma de gerenciamento de eventos e cursos para servidores públicos.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Zustand"
+      ],
+      "images": [
+        "/projects/aprender-1.jpg"
+      ],
+      "liveUrl": "https://aprenderecapacitarbrasil.com.br",
+      "repoUrl": "#",
+      "featured": true
+    },
+    {
+      "id": "wendell-passeios",
+      "title": "Wendell Passeios",
+      "description": "Plataforma de gerenciamento de passeios em Fernando de Noronha.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Zustand"
+      ],
+      "images": [
+        "/projects/wendell-1.jpg"
+      ],
+      "liveUrl": "https://www.wendellpasseios.com.br",
+      "repoUrl": "#",
+      "featured": true
+    },
+    {
+      "id": "yazon-tech",
+      "title": "Yazon Tech Solutions",
+      "description": "Site da Yazon Tech Solutions.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "PostgreSQL",
+        "AWS",
+        "Zustand"
+      ],
+      "images": [
+        "/projects/yazon-1.jpg"
+      ],
+      "liveUrl": "https://yazon.com.br/",
+      "repoUrl": "#",
+      "featured": true
+    },
+    {
+      "id": "youhull",
+      "title": "Youhull",
+      "description": "Desenvolvimento de aplicativos de clubes de vantagens, integrações com SSOs privados, google maps, check ins por geolocalização, atuando com um whitelabel para mais de 100 aplicativos. CI/CD desses aplicativos.",
+      "technologies": [
+        "React Native",
+        "TypeScript",
+        "Zustand"
+      ],
+      "images": [
+        "/projects/youhull-1.jpg"
+      ],
+      "liveUrl": "https://youhuul.com.br/",
+      "repoUrl": "#",
+      "featured": true
+    }
+  ],
+  "awards": [
+    {
+      "name": "Desenvolvimento e Liderança no B2B migração da plataforma kki.autonorte.com.br",
+      "issuer": "Corpstek Technology",
+      "date": "2021-2023",
+      "description": "Liderança técnica na migração completa da plataforma B2B"
+    },
+    {
+      "name": "Serviço de check-in via geolocalização para o app Uzeh",
+      "issuer": "Freelancer",
+      "date": "2018-2021",
+      "description": "Desenvolvimento inovador de sistema de geolocalização para coleta de resíduos"
+    },
+    {
+      "name": "Refatoração do módulo financeiro do aplicativo da Natura & Co",
+      "issuer": "Compass Uol",
+      "date": "2023",
+      "description": "Refatoração crítica utilizada diariamente por milhares de usuários"
+    },
+    {
+      "name": "Módulo de consórcio para o app do banco Volvo",
+      "issuer": "Topaz Technology",
+      "date": "2023-2024",
+      "description": "Desenvolvimento de módulo completo de consórcio em React Native"
+    }
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Intermediário"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Intermediário"
+    }
+  ]
+}

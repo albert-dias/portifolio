@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <!-- English Version -->
+  <url>
+    <loc>https://albertdias.github.io/portifolio/</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://albertdias.github.io/portifolio/?lang=pt"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://albertdias.github.io/portifolio/"/>
+  </url>
+  
+  <!-- Portuguese Version -->
+  <url>
+    <loc>https://albertdias.github.io/portifolio/?lang=pt</loc>
+    <lastmod>2024-01-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://albertdias.github.io/portifolio/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://albertdias.github.io/portifolio/?lang=pt"/>
+  </url>
+  
+</urlset>
+

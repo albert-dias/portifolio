@@ -1,0 +1,43 @@
+{
+    "name": "albert-dias-portfolio",
+    "version": "1.0.0",
+    "description": "Modern portfolio website with i18n support and dark/light theme",
+    "main": "index.html",
+    "scripts": {
+        "dev": "python -m http.server 8000",
+        "build": "npm run minify",
+        "minify": "npm run minify:html && npm run minify:css && npm run minify:js",
+        "minify:html": "html-minifier-terser --collapse-whitespace --remove-comments --minify-css --minify-js -o index.html index.html",
+        "minify:css": "cssnano styles/tokens.css styles/tokens.min.css && cssnano styles/globals.css styles/globals.min.css && cssnano styles/components.css styles/components.min.css",
+        "minify:js": "uglifyjs scripts/i18n.js -o scripts/i18n.min.js && uglifyjs scripts/theme.js -o scripts/theme.min.js && uglifyjs scripts/animations.js -o scripts/animations.min.js && uglifyjs scripts/main.js -o scripts/main.min.js",
+        "lighthouse": "lighthouse http://localhost:8000 --output html --output-path ./lighthouse-report.html",
+        "test": "echo \"No tests specified\" && exit 0"
+    },
+    "keywords": [
+        "portfolio",
+        "frontend",
+        "developer",
+        "html",
+        "css",
+        "javascript",
+        "i18n",
+        "responsive",
+        "pwa"
+    ],
+    "author": "Albert Dias",
+    "license": "MIT",
+    "devDependencies": {
+        "cssnano-cli": "^1.0.5",
+        "html-minifier-terser": "^7.2.0",
+        "lighthouse": "^11.0.0",
+        "uglify-js-cli": "^0.1.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/albertdias/portifolio.git"
+    },
+    "bugs": {
+        "url": "https://github.com/albertdias/portifolio/issues"
+    },
+    "homepage": "https://albertdias.github.io/portifolio/"
+}

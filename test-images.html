@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teste de Imagens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .image-test {
+            margin: 20px 0;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+        img {
+            max-width: 300px;
+            height: 200px;
+            object-fit: cover;
+            border: 1px solid #ddd;
+        }
+        .error {
+            color: red;
+            background: #ffe6e6;
+            padding: 10px;
+            border: 1px solid red;
+        }
+    </style>
+</head>
+<body>
+    <h1>Teste de Carregamento de Imagens</h1>
+    
+    <div class="image-test">
+        <h3>GETAP</h3>
+        <img src="/projects/getap-1.jpg" alt="GETAP" onerror="this.parentNode.innerHTML += '<div class=error>Erro ao carregar: /projects/getap-1.jpg</div>'">
+    </div>
+    
+    <div class="image-test">
+        <h3>Aprender</h3>
+        <img src="/projects/aprender-1.jpg" alt="Aprender" onerror="this.parentNode.innerHTML += '<div class=error>Erro ao carregar: /projects/aprender-1.jpg</div>'">
+    </div>
+    
+    <div class="image-test">
+        <h3>Wendell</h3>
+        <img src="/projects/wendell-1.jpg" alt="Wendell" onerror="this.parentNode.innerHTML += '<div class=error>Erro ao carregar: /projects/wendell-1.jpg</div>'">
+    </div>
+    
+    <div class="image-test">
+        <h3>Yazon</h3>
+        <img src="/projects/yazon-1.jpg" alt="Yazon" onerror="this.parentNode.innerHTML += '<div class=error>Erro ao carregar: /projects/yazon-1.jpg</div>'">
+    </div>
+    
+    <div class="image-test">
+        <h3>Youhull</h3>
+        <img src="/projects/youhull-1.jpg" alt="Youhull" onerror="this.parentNode.innerHTML += '<div class=error>Erro ao carregar: /projects/youhull-1.jpg</div>'">
+    </div>
+    
+    <script>
+        // Teste de carregamento via JavaScript
+        fetch('/content/projects.pt.json')
+            .then(response => response.json())
+            .then(projects => {
+                console.log('Projetos carregados:', projects);
+                projects.forEach(project => {
+                    console.log(`Projeto: ${project.title}, Imagem: ${project.images[0]}`);
+                });
+            })
+            .catch(error => {
+                console.error('Erro ao carregar projetos:', error);
+            });
+    </script>
+</body>
+</html>

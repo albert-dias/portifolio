@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://albertdias.github.io/portifolio/sitemap.xml
+
+# Disallow admin areas (if any)
+Disallow: /admin/
+Disallow: /private/
+
+# Allow all other content
+Allow: /images/
+Allow: /styles/
+Allow: /scripts/
+Allow: /i18n/
+Allow: /content/
+
