@@ -1,0 +1,7 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#2d3748"/>
+  <rect x="50" y="200" width="700" height="200" fill="#f59e0b" rx="10"/>
+  <text x="400" y="280" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="36" font-weight="bold">Wendell Passeios</text>
+  <text x="400" y="320" text-anchor="middle" fill="white" font-family="Arial, sans-serif" font-size="18">Plataforma de Passeios em Fernando de Noronha</text>
+  <text x="400" y="480" text-anchor="middle" fill="#9ca3af" font-family="Arial, sans-serif" font-size="14">Screenshot em breve</text>
+</svg>

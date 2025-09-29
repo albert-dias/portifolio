@@ -31,18 +31,19 @@ Este diretório contém as imagens dos projetos em destaque do portfólio.
 
 ## Instruções para Adicionar Imagens
 
-1. **Formato:** Use imagens JPG ou PNG
+1. **Formato:** Use imagens SVG, JPG ou PNG
 2. **Tamanho:** Recomendado 800x600px ou similar
 3. **Qualidade:** Imagens de alta qualidade e bem iluminadas
 4. **Nomenclatura:** Use exatamente os nomes dos arquivos listados acima
 
-## Placeholders Temporários
+## Placeholders Atuais
 
-Atualmente, as imagens estão como placeholders. Para adicionar as imagens reais:
+Atualmente, as imagens estão como placeholders SVG coloridos. Para adicionar as imagens reais:
 
 1. Tire screenshots dos projetos em funcionamento
-2. Salve com os nomes corretos neste diretório
-3. As imagens aparecerão automaticamente no portfólio
+2. Salve como JPG ou PNG com os nomes corretos neste diretório
+3. Atualize os arquivos JSON em `content/projects.*.json` para usar as novas extensões
+4. As imagens aparecerão automaticamente no portfólio
 
 ## Dicas para Screenshots
 
